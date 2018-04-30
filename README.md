@@ -35,10 +35,6 @@
 - When you're done, add some notes to `NOTES.md` that you feel would be
   beneficial for us to know
 
-## Timing
-- We expect the challenge to take approx. 4 hours to complete
-- You should not spend more than 6 hours total
-
 ## Extras
 - Add your own styling to make the UI look pretty
 - Add a Rails API layer
