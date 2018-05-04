@@ -1,0 +1,29 @@
+export const COLOR_WHITE = '#FFFFFF';
+
+export const COLOR_LUCKY_POINT = '#2C2C54';
+
+export const COLOR_FLUORESCENT_RED = '#FF5252';
+export const COLOR_EYE_ON_NEWT = '#B33939';
+
+export const COLOR_SYNTHETIC_PUMPKIN = '#FF793F';
+export const COLOR_CHILEAN_FIRE= '#CD6133';
+
+export const COLOR_C64_PURPLE = '#706FD3';
+export const COLOR_LIBERTY = '#474787';
+
+export const COLOR_SWAN_WHITE = '#f7f1e3';
+export const COLOR_HOT_STONE = '#AAA69D';
+
+export const COLOR_CROCODILE_TOOTH = '#D1CCC0';
+export const COLOR_GREY_PORCELAIN = '#84817A';
+
+export const COLOR_SUMMER_SKY = '#34ACE0';
+export const COLOR_DEVIL_BLUE = '#227093';
+
+export const HEADLINE_COLOR = COLOR_LUCKY_POINT;
+export const TEXT_COLOR = COLOR_GREY_PORCELAIN;
+export const TEXT_COLOR_ALT = COLOR_CROCODILE_TOOTH;
+
+export const BORDER_COLOR = COLOR_SWAN_WHITE;
+export const FORM_CONTROL_BORDER = COLOR_CROCODILE_TOOTH;
+export const FORM_CONTROL_BORDER_FOCUS = COLOR_HOT_STONE;
